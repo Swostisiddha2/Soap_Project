@@ -1,0 +1,18 @@
+2020-08-07 09:57:24,845 WARN  [SoapUI] Missing folder [C:\Users\SwostisiddhaNayak\Desktop\SOAP Project\my-app\ext] for external libraries
+2020-08-07 09:57:25,417 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SwostisiddhaNayak\soapui-settings.xml]
+2020-08-07 09:57:26,593 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SwostisiddhaNayak/Desktop/SOAP%20Project/my-app/APIProject-soapui-project.xml]
+2020-08-07 09:57:27,020 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [APIProject]
+2020-08-07 09:57:27,022 INFO  [SoapUITestCaseRunner] Running Project [APIProject], runType = SEQUENTIAL
+2020-08-07 09:57:27,048 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2020-08-07 09:57:27,083 INFO  [SoapUITestCaseRunner] running step [GetProductBySKU]
+2020-08-07 09:57:28,902 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:57:28,903 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-08-07 09:57:29,514 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-08-07 09:57:29,524 INFO  [SoapUITestCaseRunner] running step [CreateProduct]
+2020-08-07 09:57:30,238 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:57:30,238 INFO  [SoapUITestCaseRunner] running step [GetList]
+2020-08-07 09:57:31,395 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:57:31,407 INFO  [SoapUITestCaseRunner] running step [CallProductTypeList]
+2020-08-07 09:57:31,965 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-08-07 09:57:31,968 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 4841ms, status: FINISHED
+2020-08-07 09:57:31,979 INFO  [SoapUITestCaseRunner] Project [APIProject] finished with status [FINISHED] in 4948ms
